@@ -1,8 +1,6 @@
 # CombinarPlanilhasUiPath
 Combinar facilmente duas planilhas do Excel usando UiPath
 
-combinar facilmente duas planilhas do Excel usando UiPath? 
-
 como ler os dados de duas planilhas Excel, combiná-los em uma única tabela e escrevê-los em uma nova planilha Excel.
 
 UiPath é uma plataforma de automação robótica de processos (RPA) que permite automatizar tarefas repetitivas e manuais em computadores
